@@ -1,0 +1,15 @@
+* {
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+}
+.text1 {
+    color: white;
+    background-color: brown;
+    text-align: center;
+}
+.link1,
+.link2,
+.link3 {
+    color: rgb(214, 110, 214);
+    background-color: rgb(121, 244, 136);
+}
