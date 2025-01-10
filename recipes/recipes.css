@@ -1,0 +1,16 @@
+.image1 {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title {
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+.heading {
+    background-color: rgb(165, 140, 42);
+    color: white;
+}
