@@ -14,3 +14,7 @@
     background-color: rgb(165, 140, 42);
     color: white;
 }
+.font {
+    line-height: 1.8;
+    font-size: 26px;
+}
