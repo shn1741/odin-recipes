@@ -9,12 +9,35 @@
     text-align: center;
     background-color: brown;
     color: white;
+    margin: 8px;
+    border: 3px solid black;
 }
 .heading {
     background-color: rgb(165, 140, 42);
     color: white;
+    margin: 8px;
+    text-align: center;
+    border: 3px solid black;
 }
 .font {
     line-height: 1.8;
     font-size: 20px;
+}
+p {
+    margin: 8px;
+    padding: 8px;
+    background-color: rgb(161, 204, 241);
+    border: 3px dotted black;
+}
+ul {
+    margin: 8px;
+    padding: 8px;
+    background-color: rgb(225, 161, 241);
+    border: 3px dotted black;
+}
+ol {
+    margin: 8px;
+    padding: 8px;
+    background-color: rgb(241, 161, 161);
+    border: 3px dotted black;
 }
